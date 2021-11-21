@@ -1,10 +1,11 @@
 {
-  "name": "leetcode",
+  "name": "programming-fun",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "build": "tsc --build"
   },
   "author": "",
   "license": "ISC",
